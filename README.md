@@ -6,7 +6,7 @@
 </head>
 <body>
   <h1>Dataset Analysis for Classification</h1>
-  <p>Welcome to the dataset analysis for classification task! 📊🔍 This repository contains a dataset with features and a target class label. We've applied various classification algorithms such as K-Nearest Neighbors (KNN), Random Forest, and Decision Tree to find the best output for predicting the target class.</p>
+  <p>Welcome to the dataset analysis for classification task! 📊🔍 This repository contains a dataset with features and a target class label. I've applied various classification algorithms such as K-Nearest Neighbors (KNN), Random Forest, and Decision Tree to find the best output for predicting the target class.</p>
 
   <h2>Dataset Description</h2>
   <p>The dataset contains the following features:</p>
